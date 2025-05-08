@@ -1,1 +1,2 @@
-# woli-privacy-policy
+# woli
+## Privacy Policy & Account Deletion
